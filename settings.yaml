@@ -1,0 +1,4 @@
+CountFailures: 10000
+CountRepairTeams: 1
+Policy: FIFO
+RecoveryIntensity: 0.1
